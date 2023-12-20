@@ -1,1 +1,1 @@
-# Parkinson_Disease_Prediction
+# Diagnosing_Parkinson_Disease
