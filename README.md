@@ -16,4 +16,4 @@ assigned to PPD group by physician based on medical examination. We have used th
 given second dataset which contains speech data collected from voice samples of 42 
 individuals with PD only.
 
-The indetail report is also written which explains the overall analysis methodology. The report is confidential.
+Note: The in detail report is also written which explains the overall analysis methodology. The report is confidential.
